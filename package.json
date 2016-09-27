@@ -1,5 +1,5 @@
 {
-  "name": "react_course_12_08",
+  "name": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fidelman/react-start.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fidelman/react-start.git"
+    "url": ""
   },
-  "homepage": "https://github.com/fidelman/react-start.git",
+  "homepage": "",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.4",
